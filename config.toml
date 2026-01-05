@@ -12,10 +12,10 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     min = "0.41.0"
 
 [params]
-    brand = "Richard Redmond"                      # name of your site - appears in the sidebar
+    brand = "Spudnik"                      # name of your site - appears in the sidebar
     # remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote file
-    brand_image = "/images/headshot.jpeg"    # path to the image shown in the sidebar
-    description = "Infosec Professional" # Used as default meta description if not specified in front matter
+    brand_image = "/images/spudnikshiba.png"    # path to the image shown in the sidebar
+    description = "Infosec" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
 
